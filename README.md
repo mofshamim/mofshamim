@@ -16,7 +16,7 @@
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk#database -->
 ## Tech Stack
-<a href="#">
+<a href="#" style="text-decoration:none">
 <img src="https://img.shields.io/badge/Html%205-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
 alt="Html 5 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Css%203-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
