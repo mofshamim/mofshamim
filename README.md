@@ -14,9 +14,16 @@
 [https://www.linkedin.com/in/omarshamim/](https://www.linkedin.com/in/omarshamim/)
 
 
+<style type="text/css" rel="stylesheet">
+ .link-bottom-line, .link-bottom-line:hover, .link-bottom-line:focus, .link-bottom-line:active {
+      text-decoration: none;
+      color: inherit;
+ }
+</style>
+
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk#database -->
 ## Tech Stack
-<a href="#" style="text-decoration:none">
+<a href="#" class="link-bottom-line">
 <img src="https://img.shields.io/badge/Html%205-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
 alt="Html 5 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Css%203-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
@@ -102,4 +109,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
