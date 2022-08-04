@@ -120,8 +120,7 @@ alt="Oracle" height="25">&nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="Notepad++" height="25">&nbsp;
 </a> 
-
-<br/>
+<br/><br/>
 <a href="#">
 <img src="https://github-readme-stats.vercel.app/api?username=omarshamim&theme=blue-green" alt="Web Form 5" height="200">&nbsp;
 </a>
