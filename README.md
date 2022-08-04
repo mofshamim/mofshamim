@@ -16,6 +16,7 @@
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk#database -->
 ## Tech Stack
+<a href="#">
 <img src="https://img.shields.io/badge/Html%205-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
 alt="Html 5 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Css%203-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
@@ -52,6 +53,7 @@ alt="Web API" height="25">&nbsp;
 <img src="https://img.shields.io/badge/LINQ-EA4D21?style=for-the-badge&logo=dotnet&logoColor=61DAFB" 
 alt="LINQ Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Rdlc%20Reports-01A1E8?style=for-the-badge&logo=dotnet&logoColor=61DAFB" alt="Rdls Report" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow" height="25">&nbsp;
 <br/>
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" 
@@ -61,7 +63,7 @@ alt="Oracle" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual_Studio" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual_Studio_Code" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="Notepad++" height="25">&nbsp;
-
+</a> 
 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=omarshamim&theme=blue-green" alt="Web Form 5" height="200">&nbsp;
@@ -69,8 +71,26 @@ alt="Oracle" height="25">&nbsp;
 
 
 
-<!--
+<!-- 
+<a href="https://github.com/omarshamim/omarshamim.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarshamim&repo=omarshamim.github.io&title_color=76D7C4&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" />
+</a> 
+-->
 
+<!-- Workflow Platforms
+https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white
+https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white
+https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white
+https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white 
+-->
+
+<!-- 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=omarshamim&color=1abc9c&label=PROFILE+VIEWS&style=flat" alt="shamim" />
+</p> 
+-->
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I'm currently working on ...
@@ -82,3 +102,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
