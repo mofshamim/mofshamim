@@ -5,6 +5,25 @@
 I am a seasoned Full Stack .NET Developer with over 7 years of experience in designing, developing, and maintaining scalable, efficient, and robust software solutions. I am passionate about clean coding, test-driven development, and domain-driven design, striving to create architectures that are sustainable, modular, and adaptable to changing requirements.
 
 My expertise spans both frontend and backend development, combined with a strong focus on system design and architecture. I thrive in agile environments, leveraging collaboration and adaptability to deliver impactful solutions. With a proactive learning mindset, I excel in driving projects to successful completion while maintaining the highest quality standards. <br/><br/>
+### How to Reach Me 
+---
+  <a href="mailto:omarfaruque94bd@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-omarfaruque94bd@gmail.com-orangered?style=flat-square&logo=gmail" alt="Email">
+  </a>
+  <a href="https://github.com/mofshamim" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-mofshamim-black?style=flat-square&logo=GitHub" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/mofshamim/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-mofshamim-blue?style=flat-square&logo=LinkedIn" alt="LinkedIn">
+  </a>
+  <a href="https://mofshamim.github.io/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Personal%20Blog-mofshamim.github.io-informational?style=flat-square&logo=githubpages" alt="Personal Blog">
+  </a>
+  <a href="https://dev.to/mofshamim" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Tech%20Articles-dev.to/mofshamim-lightgrey?style=flat-square&logo=dev.to" alt="Tech Articles">
+  </a> 
+  
+<br/><br/>
 ### Key Contributions
 ---
 - **Effort Estimation:** Accurately assess time, complexity, and priority for large-scale applications.
@@ -20,24 +39,6 @@ My expertise spans both frontend and backend development, combined with a strong
 - **Architecture Principles:** Strong foundation in OOP, SOLID principles, Repository Pattern, Onion Architecture, and Modular Monolith Architecture.
 - **Development Processes:** Deep understanding of SDLC, version control systems (e.g., Git), and Agile methodologies. <br/><br/>
 I am enthusiastic about solving complex challenges, designing innovative systems, and contributing to meaningful projects. Let’s connect and create exceptional software solutions together! <br/><br/>
-## How to Reach Me  
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <a href="mailto:omarfaruque94bd@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-omarfaruque94bd@gmail.com-orangered?style=flat-square&logo=gmail" alt="Email">
-  </a>
-  <a href="https://github.com/mofshamim" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-mofshamim-black?style=flat-square&logo=GitHub" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/mofshamim/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-mofshamim-blue?style=flat-square&logo=LinkedIn" alt="LinkedIn">
-  </a>
-  <a href="https://mofshamim.github.io/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Personal%20Blog-mofshamim.github.io-informational?style=flat-square&logo=githubpages" alt="Personal Blog">
-  </a>
-  <a href="https://dev.to/mofshamim" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Tech%20Articles-dev.to/mofshamim-lightgrey?style=flat-square&logo=dev.to" alt="Tech Articles">
-  </a>
-</div> <br/><br/>
 ### Github Stats
 ---
 <!-- Stats Section -->
