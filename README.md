@@ -9,19 +9,19 @@ My expertise spans both frontend and backend development, combined with a strong
 ---
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="mailto:omarfaruque94bd@gmail.com" style="text-decoration: none; padding-top: 5px;">
-    <img src="https://img.shields.io/badge/Email-Email-ff6347?style=flat-square&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-omarfaruque94bd@gmail.com-ff6347?style=flat-square&logo=gmail" alt="Email">
   </a>
   <a href="https://github.com/mofshamim" style="text-decoration: none; padding-top: 5px;" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-GitHub-8e44ad?style=flat-square&logo=GitHub" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-mofshamim-8e44ad?style=flat-square&logo=GitHub" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/mofshamim/" style="text-decoration: none; padding-top: 5px;" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-0077b5?style=flat-square&logo=LinkedIn" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-mofshamim-0077b5?style=flat-square&logo=LinkedIn" alt="LinkedIn">
   </a>
   <a href="https://mofshamim.github.io/" style="text-decoration: none; padding-top: 5px;" target="_blank">
-    <img src="https://img.shields.io/badge/Personal%20Blog-Personal%20Blog-1abc9c?style=flat-square&logo=githubpages" alt="Personal Blog">
+    <img src="https://img.shields.io/badge/Personal%20Blog-mofshamim.github.io-1abc9c?style=flat-square&logo=githubpages" alt="Personal Blog">
   </a>
   <a href="https://dev.to/mofshamim" style="text-decoration: none; padding-top: 2px;" target="_blank">
-    <img src="https://img.shields.io/badge/Tech%20Articles-Tech%20Articles-f39c12?style=flat-square&logo=dev.to" alt="Tech Articles">
+    <img src="https://img.shields.io/badge/Tech%20Articles-dev.to/mofshamim-f39c12?style=flat-square&logo=dev.to" alt="Tech Articles">
   </a>
   <a href="https://drive.google.com/file/d/1YivMcCEQXr9VyU8Xb_YOXBJAYxcC9OeF/view" style="text-decoration: none; padding-top: 2px;" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View_&_Download-3498db?style=flat-square&logo=file-pdf" alt="Resume View & Download">
