@@ -21,9 +21,8 @@ My expertise spans both frontend and backend development, combined with a strong
   </a>
   <a href="https://dev.to/mofshamim" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Tech%20Articles-dev.to/mofshamim-lightgrey?style=flat-square&logo=dev.to" alt="Tech Articles">
-  </a> 
-  
-<br/><br/>
+  </a> <br/><br/>
+
 ### Key Contributions
 ---
 - **Effort Estimation:** Accurately assess time, complexity, and priority for large-scale applications.
