@@ -7,8 +7,8 @@ I am a seasoned Full Stack .NET Developer with over 7 years of experience in des
 My expertise spans both frontend and backend development, combined with a strong focus on system design and architecture. I thrive in agile environments, leveraging collaboration and adaptability to deliver impactful solutions. With a proactive learning mindset, I excel in driving projects to successful completion while maintaining the highest quality standards. <br/><br/>
 ### How to Reach Me 
 ---
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="mailto:omarfaruque94bd@gmail.com" style="text-decoration: none;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap; padding-bottom: 5px;">
+  <a href="mailto:omarfaruque94bd@gmail.com" style="text-decoration: none;padding-top: 5px;">
     <img src="https://img.shields.io/badge/Email-omarfaruque94bd@gmail.com-orangered?style=flat-square&logo=gmail" alt="Email">
   </a>
   <a href="https://github.com/mofshamim" style="text-decoration: none;">
