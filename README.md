@@ -22,6 +22,9 @@ My expertise spans both frontend and backend development, combined with a strong
   </a>
   <a href="https://dev.to/mofshamim" style="text-decoration: none; padding-top: 2px;">
     <img src="https://img.shields.io/badge/Tech%20Articles-dev.to/mofshamim-lightgrey?style=flat-square&logo=dev.to" alt="Tech Articles">
+  </a>
+  <a href="https://drive.google.com/file/d/1YivMcCEQXr9VyU8Xb_YOXBJAYxcC9OeF/view" style="text-decoration: none; padding-top: 2px;">
+    <img src="https://img.shields.io/badge/Resume-View-white?style=flat-square&logo=file-pdf" alt="Resume">
   </a><br/><br/>
 <div/> 
 
