@@ -6,7 +6,7 @@ I am a seasoned Full Stack .NET Developer with over 7 years of experience in des
 
 My expertise spans both frontend and backend development, combined with a strong focus on system design and architecture. I thrive in agile environments, leveraging collaboration and adaptability to deliver impactful solutions. With a proactive learning mindset, I excel in driving projects to successful completion while maintaining the highest quality standards. <br/><br/>
 <a href="https://drive.google.com/file/d/1YivMcCEQXr9VyU8Xb_YOXBJAYxcC9OeF/view" style="text-decoration: none; padding-top: 2px;" target="_blank">
-  <img src="https://img.shields.io/badge/-Resume_View-4285F4?style=flat-square&logo=adobe-acrobat-reader&logoColor=FF0000&labelColor=4285F4" alt="Resume View & Download">
+  <img src="https://img.shields.io/badge/-Resume_View-0077b5?style=flat-square&logo=adobe-acrobat-reader&logoColor=FFFFFF&labelColor=0077b5" alt="Resume View & Download">
 </a><br/><br/>
 ### How to Reach Me 
 ---
