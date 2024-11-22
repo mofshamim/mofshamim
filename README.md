@@ -5,6 +5,9 @@
 I am a seasoned Full Stack .NET Developer with over 7 years of experience in designing, developing, and maintaining scalable, efficient, and robust software solutions. I am passionate about clean coding, test-driven development, and domain-driven design, striving to create architectures that are sustainable, modular, and adaptable to changing requirements.
 
 My expertise spans both frontend and backend development, combined with a strong focus on system design and architecture. I thrive in agile environments, leveraging collaboration and adaptability to deliver impactful solutions. With a proactive learning mindset, I excel in driving projects to successful completion while maintaining the highest quality standards. <br/><br/>
+<a href="https://drive.google.com/file/d/1YivMcCEQXr9VyU8Xb_YOXBJAYxcC9OeF/view" style="text-decoration: none; padding-top: 2px;" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View_%26_Download-FFFFFF?style=flat-square&logo=adobe-acrobat-reader&logoColor=FF0000" alt="Resume View & Download">
+</a><br/><br/>
 ### How to Reach Me 
 ---
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -23,8 +26,8 @@ My expertise spans both frontend and backend development, combined with a strong
   <a href="https://dev.to/mofshamim" style="text-decoration: none; padding-top: 2px;" target="_blank">
     <img src="https://img.shields.io/badge/Tech%20Articles-dev.to/mofshamim-f39c12?style=flat-square&logo=dev.to" alt="Tech Articles">
   </a>
-  <a href="https://drive.google.com/file/d/1YivMcCEQXr9VyU8Xb_YOXBJAYxcC9OeF/view" style="text-decoration: none; padding-top: 2px;" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View_&_Download-3498db?style=flat-square&logo=file-pdf" alt="Resume View & Download">
+  <a href="https://scholar.google.com/citations?user=i0jaleUAAAAJ&hl=en" style="text-decoration: none; padding-top: 2px;" target="_blank">
+      <img src="https://img.shields.io/badge/Google%20Scholar-Scholar%20Profile-4285F4?style=flat-square&logo=google-scholar" alt="Google Scholar">
   </a><br/><br/>
 </div>
 
