@@ -21,7 +21,7 @@ My expertise spans both frontend and backend development, combined with a strong
     <img src="https://img.shields.io/badge/LinkedIn-mofshamim-0077b5?style=flat-square&logo=LinkedIn" alt="LinkedIn">
   </a>
   <a href="https://mofshamim.github.io/" style="text-decoration: none; padding-top: 5px;" target="_blank">
-    <img src="https://img.shields.io/badge/Personal%20Blog-mofshamim.github.io-1abc9c?style=flat-square&logo=githubpages" alt="Personal Blog">
+    <img src="https://img.shields.io/badge/Tech%20Blog-mofshamim.github.io-1abc9c?style=flat-square&logo=githubpages" alt="Tech Blog">
   </a>
   <a href="https://dev.to/mofshamim" style="text-decoration: none; padding-top: 2px;" target="_blank">
     <img src="https://img.shields.io/badge/Tech%20Articles-dev.to/mofshamim-f39c12?style=flat-square&logo=dev.to" alt="Tech Articles">
